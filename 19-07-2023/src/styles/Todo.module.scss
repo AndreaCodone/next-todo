@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  min-height: 100vh;
+  list-style-type: none;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.item {
+  margin-bottom: 10px;
+  padding: 20px;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid black;
+}
